@@ -1,0 +1,1 @@
+Mi aplicaicon es una interfaz de login, podemos ejecutarla abriendo un terminal integrado ingresando el comando "flutter run", esto abrira la aplicacion y ejecutara la interfaz de inicio de sesion, tiene que tener un correo valido y una contraseña de 8 a 12 caracteres 
